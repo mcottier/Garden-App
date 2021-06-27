@@ -1,6 +1,10 @@
 import React, { Component } from "react";
 import Directory from "./DirectoryComponent";
-import { Garden } from "../../shared/Garden";
+<<<<<<< HEAD
+import { Garden } from "../shared/Garden";
+=======
+import { Garden } from "../shared/Garden";
+>>>>>>> d8597ff60ebcd29f82a402efbdb50821be203060
 import GardenInfo from "./GardenInfo";
 
 class Main extends Component {
